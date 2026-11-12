@@ -7,7 +7,7 @@
 ### Group Members			    : CAISIP, CASCO, RAGAZA
 ### Date (Proposal Date)  : November 12, 2026
 
-### Project Description: testing
+### Project Description:
 
 - (enzo PLS PUT this ALREADYT DSFJDSUIOFHSDUIOFHUIDSFHUISDHFUISDH F) A brief summary of the project description and the need for it.
 
