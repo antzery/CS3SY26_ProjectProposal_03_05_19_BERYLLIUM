@@ -18,11 +18,9 @@
 ![Sample Diagram](https://i.ibb.co/dsPCm0nK/yaaaayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.png)
 
 ### Goals:
-
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
-
-- Objective 1:
-- Objective 2:
-- Objective n:
-
-[Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
+The long-term goal of this project is to provide bladers with a Beyblade X identifier and builder that displays the competitive strength and price fairness of custom builds. This helps buyers nationwide to identify the strongest combinations and find the best deals.
+ 
+- Make an abstract inheritance hierarchy in Python where BeybladeX (ABC) inherits from Beyblade (ABC), and subclasses (BeybladeX(BX), BeybladeX(UX), and BeybladeX(CX)) inherit from BeybladeX. 
+- Apply object composition by combining Blade, Ratchet, and Bit objects (along with CX-specific blade2 and locking_chip attributes) into complete Beyblade instances using __init__ constructors. 
+- Store and display part attributes, including spin direction, tier, types, stamina, speed, and pricing, through a standardized show_info() method across all classes. 
+- Evaluate overall build strength and price fairness by generating rankings and comparing total performance vs. market price.
