@@ -9,11 +9,11 @@
 
 ### Project Description:
 
-- Our project will be a beyblade x identifier and builder which will allow users to identify how powerful their beyblade is and if they are getting it for a fair price.  This aims to help bladders around the country to find better deals for beyblades and know which ones are the strongest.
+- Our project will be a Beyblade X identifier and builder which will allow users to identify how powerful their beyblade is and if they are getting it for a fair price.  This aims to help beybladers around the country to find better deals for beyblades and know which ones are the strongest.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
-- The project will include the three types of Beyblade X beys, these being BX, UX, and CX. These all inherit from the Beyblade X abstract class (which itself inherits from the Beyblade class for further use). Each bey (an instance of BX, UX, or CX) has a blade, ratchet, and bit, and a price. The project lets you build a beyblade out of these parts and gives you info on how they could play and if it is worth the price.
+- The project will include the three types of Beyblade X beys, these being BX, UX, and CX. These all inherit from the Beyblade X abstract class (which itself inherits from the Beyblade class for further use). Each bey (an instance of BX, UX, or CX) has a blade, ratchet, and bit, and a price.
 
 - Include the description as well of your target demographics as the user of your application. 
 
