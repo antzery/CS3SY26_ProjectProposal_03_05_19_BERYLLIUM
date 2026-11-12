@@ -2,10 +2,10 @@
 
 ## Project Proposal Template
 
-### Project Title or Name of the Application	:
+### Project Title or Name of the Application	: Beyblade X Builder
 ### Section			   	      : 9-Beryllium
 ### Group Members			    : CAISIP, CASCO, RAGAZA
-### Date (Proposal Date)  : 
+### Date (Proposal Date)  : November 12, 2026
 
 ### Project Description: testing
 
