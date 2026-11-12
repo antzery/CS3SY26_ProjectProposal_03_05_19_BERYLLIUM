@@ -9,7 +9,7 @@
 
 ### Project Description:
 
-- (enzo PLS PUT this ALREADYT DSFJDSUIOFHSDUIOFHUIDSFHUISDHFUISDH F) A brief summary of the project description and the need for it.
+- Our project will be a beyblade x identifier and builder which will allow users to identify how powerful their beyblade is and if they are getting it for a fair price.  This aims to help bladders around the country to find better deals for beyblades and know which ones are the strongest.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
